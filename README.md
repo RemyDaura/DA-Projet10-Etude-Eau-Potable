@@ -31,8 +31,8 @@ La robustesse et l'intuitivité du tableau de bord reposent sur une méthodologi
 * **Pertinence visuelle :** Sélection stricte des graphiques (cartes de formes, diagrammes en barres segmentées, matrices) en parfaite adéquation avec le type de données représentées.
 * **Modèle en étoile :** Organisation optimisée des relations entre la table de faits (données d'accès à l'eau) et les tables de dimensions (géographie, calendrier).
 
-<img src="images/Capture_Mockup_Projet.png" width="500px"><img src="images/Capture_Vue_Mondiale.png" width="500px">
-<img src="images/Capture_Analyse_Regionale.png" width="450px"><img src="images/Capture_Fiche_Pays.png" width="450px">
+<img src="images/Capture d'écran 2026-05-04 122245.png" width="500px"><img src="images/Capture d'écran 2026-05-04 122254.png" width="500px">
+<img src="images/Capture d'écran 2026-05-04 122305.png" width="500px">
 
 ---
 *Ce projet fait partie de la formation Data Analyst d'OpenClassrooms.*
